@@ -19,8 +19,14 @@
     -moz-font-feature-settings: 'liga';
     -moz-osx-font-smoothing: grayscale;
 }
+.tulisan-shadow{
+    margin-top: 100px;
+}
 .tulisan-hijau-gelap {
     color: #1b5e20;
+}
+.warna-orange-agrid{
+    background-color: #e79418d5;
 }
 .warna-hijau-gelap {
     background-color: #1b5e20;
